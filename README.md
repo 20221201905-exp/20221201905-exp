@@ -1,16 +1,23 @@
-## Hi there 👋
+# 20221200703-EXP
+**姓名：** 王凯文   **序号：** 24   **学号：** 20221201905    **班级：** 1班   **专业：** 人工智能
 
-<!--
-**20221201905-exp/20221201905-exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**实验1-线性回归：** [实验一](./Exp1)
 
-Here are some ideas to get you started:
+**实验2-决策树分类：** [实验二](./Exp2)  
+- 实验2.1 随机森林：[实验二（随机森林））](./Exp2.1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**实验3-Git的使用：** [实验三](./Exp3)
+
+**实验4-MNIST降维：** [实验四](./Exp4)
+
+**实验5-K近邻：**[实验五](./Exp5)
+
+**实验6-KMeans 聚类：** [实验六](./Exp6)
+
+**实验7-神经网络的手写数字识别：** [实验七](./Exp7)
+
+**实验8-神经网络的图像识别算法：**[实验八](./Exp8)
+
+**实验9- LeNet-5 的图像识别：** [实验九](./Exp9)
+
+**实验10-ResNet 的猫狗识别：** [实验十](./Exp10)
